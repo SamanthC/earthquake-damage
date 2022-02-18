@@ -1,5 +1,5 @@
 # earthquake-damage
-predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
+The pbjective of this project from Driven Data is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
 
 ## Introduction
 The data was collected through surveys by the Central Bureau of Statistics that work under the National Planning Commission Secretariat of Nepal. This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
